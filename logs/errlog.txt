@@ -1,0 +1,2 @@
+20240818	15:51:56	0844ab30-b31a-4a80-88ec-6c17a1de0e3f	Error: Not allowed by CORS
+20240818	16:19:32	3d5949d2-ad42-4509-84fa-75cc349dae0c	Error: ENOENT: no such file or directory, stat 'C:\Users\arsen\Desktop\work\nodejstest\views\404.html'
